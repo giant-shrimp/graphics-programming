@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Processing の書き出し物・ビルド生成物
+applet/
+application.*/
+*.class
+
+# エディタ
+.idea/
+.vscode/
+*.swp

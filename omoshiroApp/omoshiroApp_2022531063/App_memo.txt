@@ -1,0 +1,4 @@
+238行目の衝突判定はif(mycarX == enemyX && mycarY < enemyY+enemyHeight && mycarY + mycarHeight > enemyY)
+253行目　textSize(68);
+264行目　textSize(115);
+265行目　y*1.5 → y
